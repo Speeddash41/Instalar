@@ -1,13 +1,13 @@
 const arquivos = [
   {
-    nome: "Arquivo Teste ZIP",
-    descricao: "Um arquivo compactado de exemplo",
-    link: "files/arquivo1.zip"
+    nome: "Jogos de Gba",
+    descricao: "jogos de gba diferentes originais",
+    link: "files/gba_games.zip"
   },
   {
-    nome: "Documento PDF",
-    descricao: "Arquivo PDF para download",
-    link: "files/arquivo2.pdf"
+    nome: "Hack Rom de Pokémon",
+    descricao: "50 Hack Roms de Pokémon",
+    link: "files/roms.zip"
   }
 ];
 
